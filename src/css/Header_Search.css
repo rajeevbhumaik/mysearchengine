@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+.Header{
+    margin-top: -80px;
+    z-index: 986;
+    display: block;
+    position: relative;
+    -webkit-transition: box-shadow 250ms;
+    transition: box-shadow 250ms;
+    display: flex;
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+    float: right;
+    font-weight:bold;
+    
+    
+    
+}
+a:link{
+color: black;
+text-decoration: none;
+}
+
+a:link:hover{
+    text-decoration: underline;
+}
+.images{
+    margin-right: 25px;
+    margin-left: 20px;
+} 
+.avatar .MuiAvatar-root{
+    height: 30px;
+    width: 30px;
+} 
+
+.avatar{
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
