@@ -1,4 +1,4 @@
-import { SEARCH_VALUE, GET_SEARCH_DATA } from "../service/constants";
+import { SEARCH_VALUE } from "../service/constants";
 
 const initialVal = {
   search_value: "",

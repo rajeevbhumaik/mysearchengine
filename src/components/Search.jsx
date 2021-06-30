@@ -1,6 +1,6 @@
 import React from "react";
 import BarSearch from "./BarSearch";
-import data from "../data.json";
+//import data from "../data.json";
 import "../css/Search.css";
 import logo from "../images/googlelogo.png";
 import SearchIcon from "@material-ui/icons/Search";
